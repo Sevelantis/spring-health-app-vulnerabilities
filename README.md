@@ -8,10 +8,10 @@ The purpose of this project was to write two versions of the same Health Service
 It is important to take security aspects into consideration during the team's software development lifecycle.
 
 # authors
- - 112169 MIRON OSKROBA
- - 112018 ZUZANNA SIKORSKA
- - 112282 JANNIS JAKOB MALENDE
- - 112059 STANISLAW FRANCZYK
+ - MIRON OSKROBA
+ - ZUZANNA SIKORSKA
+ - JANNIS MALENDE
+ - STANISLAW FRANCZYK
 
 ## project description
 Our application offers the following services:
