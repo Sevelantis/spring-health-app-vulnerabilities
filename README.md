@@ -2,7 +2,7 @@
 University of Aveiro. Project in Security Information and Organization, groups of 4.
 
 # Purpose
-The purpose of this project was to write two versions of the same Health Services Application - with and without vulnerabilities. Attack vector analysis allowed the project team to identify and assess 6 CWEs and remove them in the updated version of the application.
+The purpose of this project was to design and implement two versions of the same Health Services Application - with and without vulnerabilities. Attack vector analysis allowed the project team to identify and assess 6 CWEs and remove them in the updated version of the application.
 
 # Key takeaways
 It is important to take security aspects into consideration during the team's software development lifecycle.
